@@ -1,6 +1,6 @@
 # RAB3-Radar Hardware Design Files
 
-The RAB3-Radar is an evaluation board featuring the Infineon BGT60TR13CE6327XUMA1 and Nisshinbo NJR4652F2S1 60GHz Radars.
+The RAB3-Radar is an evaluation board featuring the Infineon BGT60TR13CE6327XUMA1 and Nisshinbo NJR4652F2S1 60GHz Radars. 
 
 <img src="images/rab3-radar.jpg" style="zoom:80%;" />
 
