@@ -7,10 +7,10 @@ The RAB3-Radar is an evaluation board featuring the Infineon BGT60TR13CE6327XUMA
 Here you may find hardware documents as follows:
 
 - Schematics, PCB layout, and mechanical drawings
-
 - BOM: Bill of Materials
-
 - Assembly drawings
+- Altium Designer Project
+- Gerber Files
 
 
 ## Legal Disclaimer
